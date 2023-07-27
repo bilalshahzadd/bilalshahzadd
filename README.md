@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bilalshahzadd
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning reactjs
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning remix.run
 
 <!---
 bilalshahzadd/bilalshahzadd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
