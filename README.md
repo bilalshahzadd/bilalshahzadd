@@ -33,9 +33,9 @@ Most design work is drawn by one person and built by another, and the gap betwee
 
 | Service | What it covers |
 |---|---|
-| **[Web design](https://bilalshahzad-portfolio.vercel.app/services/web-design)** | Interface and visual design for marketing sites, landing pages, and product screens, built as a system rather than a set of one-off screens. |
-| **[Next.js development](https://bilalshahzad-portfolio.vercel.app/services/nextjs-development)** | Production builds with the App Router, server components, and Core Web Vitals handled during the build rather than after it. |
-| **[Full-stack delivery](https://bilalshahzad-portfolio.vercel.app/services/full-stack-development)** | APIs, databases, authentication, and payments wired into the front-end, then deployed. |
+| **[Website design and development](https://bilalshahzad-portfolio.vercel.app/services/website-design-and-development)** | Your website designed and built end to end: what it should say, every page drawn, the build, and the launch. One person, one price. |
+| **[Web app development](https://bilalshahzad-portfolio.vercel.app/services/web-app-development)** | Software your customers log into: accounts, saved data, and payments, designed and built end to end. |
+| **[Product design](https://bilalshahzad-portfolio.vercel.app/services/product-design)** | Flows, screens, and a design system for teams who already have engineers to build it. |
 
 ---
 
